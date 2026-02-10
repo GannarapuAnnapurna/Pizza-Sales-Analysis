@@ -21,4 +21,4 @@ This project analyzes pizza sales data to identify revenue trends, top-performin
 - Classic category dominates overall sales
 - Top 10 pizzas contribute majority of revenue
 
-## 📂 Project Structure
+
